@@ -1,11 +1,11 @@
-ExtJS ºÏ²¢µ¥Ôª¸ñ
+ExtJS Grid åˆå¹¶å•å…ƒæ ¼
 ==========
 
-Ö÷ÒªÅäÖÃ
+ä¸»è¦é…ç½®
 ----------
 
 ```javascript
 viewConfig: {
-    mergeColumns: 'cat1>cat2|cat2_desc' // ÏÈ°´cat1ºÏ²¢£¬ÔÙ°´cat2ºÏ²¢£¬cat2_desc°´cat2ºÏ²¢
+    mergeColumns: 'cat1>cat2|cat2_desc' // å…ˆæŒ‰cat1åˆå¹¶ï¼Œå†æŒ‰cat2åˆå¹¶ï¼Œcat2_descæŒ‰cat2åˆå¹¶
 }
 ```
